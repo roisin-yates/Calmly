@@ -28,3 +28,6 @@ With Calmly, you can easily track your day-to-day activities, record your though
 made with shopify logo creator 
 
 You can find the server running on http://localhost:3000.
+
+
+This repository has been copied as a template from my [devacademy project](https://github.com/tohora-2023/my-fullstack-collection/tree/roisin), my full commit history can be viewed there.
