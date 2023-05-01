@@ -28,7 +28,7 @@ export default function Entry({ entry }: DiaryEntry) {
   }
 
   return (
-    <div key={entry.id} className="box entry">
+    <div key={entry.id} className="box entry mb-3">
       <div className="is-flex is-justify-content-space-between">
         <span
           className={
