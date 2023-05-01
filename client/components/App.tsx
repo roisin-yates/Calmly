@@ -8,7 +8,7 @@ function App() {
         <img src="./img/calmly.png" alt="calmly logo" className="logo" />
         <h1 className="is-hidden">Calmly</h1>
       </header>
-      <section className="main is-flex is-justify-content-space-evenly">
+      <section className="main is-flex is-justify-content-space-around ml-auto mr-auto">
         <div>
           <EntriesList />
         </div>

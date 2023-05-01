@@ -13,7 +13,7 @@ export default function EntriesList() {
   }, [dispatch])
 
   return (
-    <div className="m-6">
+    <div className="mt-6">
       <h2 className="is-size-3 has-text-centered has-text-weight-bold">
         Diary entries
       </h2>

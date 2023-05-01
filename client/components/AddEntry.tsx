@@ -33,7 +33,7 @@ export default function AddEntry() {
   }
   return (
     <>
-      <div className="m-6">
+      <div className="mt-6">
         <h3 className="is-size-3 has-text-weight-bold has-text-centered">
           Add a new Diary Entry
         </h3>
